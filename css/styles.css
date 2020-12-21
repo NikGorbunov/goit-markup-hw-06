@@ -805,6 +805,10 @@ img {
   background-color: #ffffff;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+.close-modal-button:hover .icon-close-modal-button,
+.close-modal-button:focus .icon-close-modal-button {
+  fill: var(--accent-color);
+}
 
 .text-modal {
   font-family: var(--main-font);
@@ -958,5 +962,6 @@ img {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  color: #2196f3;
   text-decoration-skip-ink: none;
 }
