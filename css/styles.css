@@ -613,11 +613,6 @@ img {
   transition: var(--timing-fn);
 }
 
-.social-footer-input:focus {
-  outline: none;
-  border-color: var(--accent-color);
-}
-
 .social-footer-btn {
   display: inline-flex;
   justify-content: space-between;
