@@ -815,6 +815,7 @@ img {
   letter-spacing: 0.03em;
 
   color: #212121;
+  margin-bottom: 12px;
 }
 
 .modal-form-subject {
@@ -856,8 +857,11 @@ img {
 }
 
 .modal-form-label {
-  margin-top: 7px;
   margin-bottom: 10px;
+}
+
+.modal-placeholder-label {
+  margin-bottom: 20px;
 }
 
 .modal-form-input {
