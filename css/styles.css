@@ -509,6 +509,7 @@ img {
 }
 
 .footer-items {
+  width: 231px;
   margin-right: 70px;
 }
 
@@ -598,6 +599,7 @@ img {
 }
 
 .social-footer-form {
+  display: flex;
   margin-top: 20px;
 }
 
